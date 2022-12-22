@@ -1,0 +1,14 @@
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+}
+label {
+  display: flex;
+  margin: 1em auto;
+  padding: 0.5em;
+  align-content: center;
+}
+input {
+  margin-left: 0.5em;
+}
