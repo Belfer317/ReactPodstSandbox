@@ -4,7 +4,6 @@ const HomeView = () => (
   <>
     <Nav />
     <h1>Moje zasoby</h1>
-    <AddElement />
   </>
 );
 
